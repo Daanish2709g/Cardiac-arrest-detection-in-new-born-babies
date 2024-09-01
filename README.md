@@ -1,4 +1,4 @@
-# Cardiac-arrest-detection-in-new-born-babies
+# Cardiac-arrest-detection-in-new-born-babies in intensive care units
 
 ![Screenshot 2024-08-30 182002](https://github.com/user-attachments/assets/a5c5477a-3b70-4744-9bae-df85635cf155)
 
